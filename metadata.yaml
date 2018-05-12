@@ -28,6 +28,8 @@ description: "Calculus Made Easy is a book on infinitesimal calculus originally 
   \ copyright law (although Macmillan's copyright under UK law is reproduced in the\
   \ 2008 edition from St. Martin's Press). It can be freely accessed on Project Gutenberg.\n\
   \ From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33283#Calculus-Made-Easy--13-Being-a-very-simplest-introduction-to-those-beautiful-methods-which-ar_
 gutenberg_bookshelf: Mathematics
 gutenberg_issued: '2010-07-28'
 gutenberg_type: Text

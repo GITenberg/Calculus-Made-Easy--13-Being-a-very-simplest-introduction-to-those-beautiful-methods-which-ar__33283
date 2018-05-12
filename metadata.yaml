@@ -1,0 +1,51 @@
+_repo: Calculus-Made-Easy--13-Being-a-very-simplest-introduction-to-those-beautiful-methods-which-ar__33283
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Thompson, Silvanus P. (Silvanus Phillips)
+    alias: Thompson, Silvanus Phillips
+    birthdate: 1851
+    deathdate: 1916
+    gutenberg_agent_id: '36308'
+    url: http://www.gutenberg.org/2009/agents/36308
+    wikipedia: http://en.wikipedia.org/wiki/Silvanus_P._Thompson
+description: "Calculus Made Easy is a book on infinitesimal calculus originally published\
+  \ in 1910 by Silvanus P. Thompson. The original text continues to be available as\
+  \ of 2008 from Macmillan and Co., but a 1998 update by Martin Gardner is available\
+  \ from St. Martin's Press which provides an introduction; three preliminary chapters\
+  \ explaining functions, limits, and derivatives; an appendix of recreational calculus\
+  \ problems; and notes for modern readers. Gardner changes \"fifth form boys\" to\
+  \ the more American sounding (and gender neutral) \"high school students,\" updates\
+  \ many now obsolescent mathematical notations or terms, and uses American decimal\
+  \ dollars and cents in currency examples.\nCalculus Made Easy ignores the use of\
+  \ limits with its epsilon-delta definition, replacing it with a method of approximating\
+  \ (to arbitrary precision) directly to the correct answer in the infinitesimal spirit\
+  \ of Leibniz, now formally justified in modern non-standard analysis and smooth\
+  \ infinitesimal analysis.\nThe original text is now in the public domain under US\
+  \ copyright law (although Macmillan's copyright under UK law is reproduced in the\
+  \ 2008 edition from St. Martin's Press). It can be freely accessed on Project Gutenberg.\n\
+  \ From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Mathematics
+gutenberg_issued: '2010-07-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33283'
+  wikidata: Q5018893
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Calculus'
+- !lcc 'QA'
+title: "Calculus Made Easy\r\nBeing a very-simplest introduction to those beautiful\
+  \ methods which are generally called by the terrifying names of the Differential\
+  \ Calculus and the Integral Calculus"
+url: http://www.gutenberg.org/ebooks/33283
+wikipedia:
+- https://en.wikiquote.org/wiki/Calculus_Made_Easy
+- https://en.wikipedia.org/wiki/Calculus_Made_Easy
+- https://commons.wikimedia.org/wiki/Category:Calculus_Made_Easy

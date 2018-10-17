@@ -43,6 +43,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'Calculus'
 - !lcc 'QA'
+- GITenberg
 title: "Calculus Made Easy\r\nBeing a very-simplest introduction to those beautiful\
   \ methods which are generally called by the terrifying names of the Differential\
   \ Calculus and the Integral Calculus"
